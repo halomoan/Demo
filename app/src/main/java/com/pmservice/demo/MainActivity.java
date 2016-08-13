@@ -18,4 +18,7 @@ public class MainActivity extends AppCompatActivity {
         int ii = 0;
         ii = i + 1;
     }
+    private void demoPull(){
+        int a = 0;
+    }
 }
