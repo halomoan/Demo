@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         int ii = 0;
         ii = i + 1;
     }
-    private void demoPull(){
+    private void demoBranch(){
         int a = 0;
     }
 }
